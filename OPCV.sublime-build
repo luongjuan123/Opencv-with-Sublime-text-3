@@ -1,0 +1,11 @@
+{
+"shell_cmd": "cmake . && cmake --build .",
+"working_dir": "${file_path}",
+"variants": [
+{
+"name": "Run",
+"working_dir": "${file_path}/Debug",
+"shell_cmd": "${project_base_name}.exe"
+}
+]
+}
