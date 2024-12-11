@@ -1,0 +1,1 @@
+This is my project to try opencv on Sublime text 3, theres still a prob that the .exe of the project is automatically be generated in the Debug file that you can't Ctrl + Shift + B to debug, you can only run it by click on  .exe inside the Debug file, i think my problem is the build system file, i'll fix it. : D
