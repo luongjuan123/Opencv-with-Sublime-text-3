@@ -1,1 +1,15 @@
-This is my project to try opencv on Sublime text 3, theres still a prob that the .exe of the project is automatically be generated in the Debug file that you can't Ctrl + Shift + B to debug, you can only run it by click on  .exe inside the Debug file, i think my problem is the build system file, i'll fix it. : D
+# OpenCV Project on Sublime Text 3
+
+This is a simple project to try OpenCV with Sublime Text 3.
+
+## Current Status
+
+- The project successfully compiles and generates an `.exe` file in the `Debug` folder.
+- However, there's an issue with debugging: you **can't use `Ctrl + Shift + B`** to debug the project from Sublime Text directly.
+- Currently, the executable can **only be run manually** by double-clicking the `.exe` file inside the `Debug` directory.
+
+## Next Steps
+
+I believe the problem lies in the **build system configuration** in Sublime Text. I'm planning to fix this to allow proper debugging and easier execution through the build shortcut.
+
+: D
