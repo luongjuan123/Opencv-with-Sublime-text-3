@@ -15,5 +15,5 @@ I'm planning to fix this so I can debug or run the project more conveniently usi
 
 ---
 
-Thanks for checking out my mini test project! : D 
+Thanks for checking out my mini test project! : D  
 Feel free to contribute or suggest improvements! 
