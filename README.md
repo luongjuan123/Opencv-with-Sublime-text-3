@@ -1,15 +1,19 @@
-# OpenCV Project on Sublime Text 3
+# 🖼️ OpenCV Project on Sublime Text 3
 
-This is a simple project to try OpenCV with Sublime Text 3.
+This is a simple project to try OpenCV with Sublime Text 3. 🧪💻
 
-## Current Status
+## 🚧 Current Status
 
-- The project successfully compiles and generates an `.exe` file in the `Debug` folder.
-- However, there's an issue with debugging: you **can't use `Ctrl + Shift + B`** to debug the project from Sublime Text directly.
-- Currently, the executable can **only be run manually** by double-clicking the `.exe` file inside the `Debug` directory.
+- ✅ The project **successfully compiles** and generates an `.exe` file in the `Debug` folder.
+- ⚠️ However, there's an issue with debugging: you **can't use `Ctrl + Shift + B`** to debug the project directly from Sublime Text.
+- 🖱️ Currently, the executable can **only be run manually** by double-clicking the `.exe` file inside the `Debug` directory.
 
-## Next Steps
+## 🔧 Next Steps
 
-I believe the problem lies in the **build system configuration** in Sublime Text. I'm planning to fix this to allow proper debugging and easier execution through the build shortcut.
+I believe the problem lies in the **build system configuration** in Sublime Text. 🛠️  
+I'm planning to fix this so I can debug or run the project more conveniently using `Ctrl + Shift + B`. 🚀
 
-: D
+---
+
+Thanks for checking out my mini test project! : D 
+Feel free to contribute or suggest improvements! 
